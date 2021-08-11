@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @GagandeepKundi
-- 👀 I’m interested in Machine Learning and NLP
+- 👋 Hi, I’m @GagandeepKundi Data Analyst/Data Scientist
