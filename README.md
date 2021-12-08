@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @GagandeepKundi Data Analyst/Data Scientist
+👋 Hi, I’m @GagandeepKundi Data Analyst
